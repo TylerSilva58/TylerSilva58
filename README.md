@@ -1,16 +1,21 @@
-## Hi there 👋
+# Tyler Silva
 
-<!--
-**TylerSilva58/TylerSilva58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ Oregon State University (Accelerated Master's Platform) · prior U.S. Army
 
-Here are some ideas to get you started:
+Working on AI safety evaluation — currently building an automated test harness for measuring unsafe behavior in LLM-based griefbots (mentored undergraduate research; poster at the May 2027 Cascades Research & Scholarship Symposium).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+
+🔬 AI safety research: ethical evaluation framework + Python test harness for conversational AI
+
+⚙️ Systems programming in C — see CS274_Projects
+
+🖥️ Notchy — a macOS notch utility in SwiftUI, in private beta: https://trynotchy.com
+
+🕹️ Starshot Arcade — indie browser games: https://starshotarcade.com
+
+## Interests
+
+LLM evaluation · AI safety · systems programming
+
+📍 Bend, OR · LinkedIn: https://www.linkedin.com/in/tylersilva23
